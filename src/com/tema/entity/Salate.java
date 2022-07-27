@@ -52,7 +52,7 @@ public class Salate {
         return menu;
     }
 
-    public void setCard(Meniu menu) {
+    public void setMeniu(Meniu menu) {
         this.menu = menu;
     }
 
